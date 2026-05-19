@@ -1,5 +1,5 @@
-# sales-management-sql
-Sales Management database
+# Sales Management System — SQL Project
+
 ## Overview
 A complete SQL database project simulating
 a real business sales management system.
